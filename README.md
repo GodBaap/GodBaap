@@ -19,7 +19,7 @@ __💻 I'm Currently workng on__
 __Check out my GitHub repository:__
 
 - [User Management System](https://github.com/GodBaap/User-Registration-System) - ```Using PHP, JS, HTML & CSS```
-- [e-Notes](https://github.com/GodBaap/e-Notes) - ```Using Java Servlet, JS, HTML & CSS`
+- [e-Notes](https://github.com/GodBaap/e-Notes) - ```Using Java Servlet, JS, HTML & CSS```
 - [Event Management System](https://github.com/GodBaap/Eventicaa) - ```Java Servlet, JS, HTML & CSS```
 - [e-Resturant](https://github.com/GodBaap/e-Restaurant) - ```Using JS, HTML & CSS```
 
