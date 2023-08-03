@@ -1,5 +1,5 @@
-![GodBaap](./Banner.png)
-<img src="./Banner.png">
+
+![GodBaap](https://i.ibb.co/3h6VR0D/Banner.png)
 
 <h2>Hey! 👋</h2>
 
@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
 
 <b><em>GitHub Stats:</em></b> <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodBaap&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=GodBaap&theme=dark)
 
 
 <h2> About Arpan⚡:</h2>
