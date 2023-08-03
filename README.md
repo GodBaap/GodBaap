@@ -1,6 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Banner](./banner.png)
 
 <h2>Hey! 👋</h2>
 
@@ -28,7 +26,7 @@ __Check out my GitHub repository:__
 
 <b><em>GitHub Stats:</em></b> <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodBaap&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=GodBaap&theme=dark)
 
 
 <h2> About Arpan⚡:</h2>
