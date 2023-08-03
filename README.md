@@ -1,6 +1,5 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![GodBaap](./Banner.png)
+<img src="./Banner.png">
 
 <h2>Hey! 👋</h2>
 
@@ -20,7 +19,7 @@ I'm Arpan Mukherjee
 __Check out my GitHub repository:__
 
 - [User Management System](https://github.com/GodBaap/User-Registration-System) - ```Using PHP, JS, HTML & CSS```
-- [e-Notes](https://github.com/GodBaap/e-Notes) - ```Using Java Servlet, JS, HTML & CSS```
+- [e-Notes](https://github.com/GodBaap/e-Notes) - ```Using Java Servlet, JS, HTML & CSS`
 - [Event Management System](https://github.com/GodBaap/Eventicaa) - ```Java Servlet, JS, HTML & CSS```
 - [e-Resturant](https://github.com/GodBaap/e-Restaurant) - ```Using JS, HTML & CSS```
 
