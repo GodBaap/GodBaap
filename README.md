@@ -3,7 +3,7 @@
 
 <h2>Hey! 👋</h2>
 
-![Visitor][visitors.com] ![GitHub followers][git.followers]
+<a href="https://github.com/GodBaap">![Visitor](https://img.shields.io/badge/visitors-2369-blue?style=flat)</a>                                                   <a href="https://github.com/GodBaap?tab=followers">![GitHub followers](https://img.shields.io/badge/Followers-2-grey?style=social&logo=github)</a>
 
 I'm Arpan Mukherjee 
 - <i>Currently:</i> Pursuing Computer Science & Engineering(CSE) in Asansol Engineering College(AEC). 
@@ -37,8 +37,4 @@ I'm an Under-Graduate Student living in Asansol, WB, India. Outside Tech, I love
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:arpan28mukherjee@gmail.com">![ConnectWith@GodBaap](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/arpan28mukherjee/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-[visitors.com]: https://img.shields.io/badge/visitors-2369-blue?style=flat&link=https%3A%2F%2Fgithub.com%2FGodBaap
-[git.followers]: https://img.shields.io/badge/followers-2-grey?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FGodBaap%3Ftab%3Dfollowers
+<a href="mailto:arpan28mukherjee@gmail.com">![ConnectWith@GodBaap](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://www.linkedin.com/in/arpan28mukherjee/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
